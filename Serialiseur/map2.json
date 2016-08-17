@@ -1,0 +1,4001 @@
+[[{
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	2,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	3,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	4,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	5,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	6,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	7,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	8,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	9,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	10,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	11,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	12,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	13,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	14,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	15,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	16,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	17,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	18,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	19,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"03FF00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}], [{
+			"x":	20,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	1,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	2,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	3,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	4,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	5,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	6,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	7,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	8,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	9,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	10,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	11,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	12,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	13,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	14,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	15,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	16,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	17,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	18,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}, {
+			"x":	-2144043552,
+			"y":	19,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	"00"
+			}
+		}], [{
+			"x":	-2144043552,
+			"y":	20,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"},\u0004€\u0001",
+				"skin":	""
+			}
+		}], [{
+			"x":	28160,
+			"y":	-2144043552,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0002",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0003",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0004",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0005",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0006",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0007",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\b",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\t",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\n",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u000b",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\f",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\r",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u000e",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u000f",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0010",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0011",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0012",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}, {
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0013",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"\u0004€\u0001"
+			}
+		}], [{
+			"x":	808470016,
+			"y":	28160,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0014",
+			"players":	[],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["àËÿÿ", "àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}], [{
+			"x":	1,
+			"y":	808470016,
+			"isObstacle":	"false",
+			"skin":	"n",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}], [{
+			"x":	-2147210115,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"F00",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}], [{
+			"x":	0,
+			"y":	-2147210115,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"€€"
+			}
+		}], [{
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	",\u0004€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}], [{
+			"x":	0,
+			"y":	-13344,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["\u0001", "\u0001"],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"\u0001",
+				"skin":	""
+			}
+		}], [{
+			"x":	-2139062272,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"Ëÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["À}4€\u0001", "À}4€\u0001", "À}4€\u0001"],
+			"contains":	{
+				"kind":	"À}4€\u0001",
+				"skin":	""
+			}
+		}], [{
+			"x":	0,
+			"y":	-2139062272,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["", ""],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}, {
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"4€\u0001"
+			}
+		}], [{
+			"x":	0,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"€€€",
+			"players":	[],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["mÌÿÿ"],
+			"contains":	{
+				"kind":	"mÌÿÿ",
+				"skin":	""
+			}
+		}], [{
+			"x":	1,
+			"y":	0,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["ü"],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"ü",
+				"skin":	"ÿÿ"
+			}
+		}], [{
+			"x":	-2144043584,
+			"y":	1,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"N‡¤Åü",
+				"skin":	""
+			}
+		}], [{
+			"x":	0,
+			"y":	-2144043584,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}, {
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"¤Åü"
+			}
+		}], [{
+			"x":	-13203,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"}4€\u0001",
+			"players":	[],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}, {
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	["àËÿÿ"],
+			"contains":	{
+				"kind":	"àËÿÿ",
+				"skin":	""
+			}
+		}], [{
+			"x":	32764,
+			"y":	-13203,
+			"isObstacle":	"false",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}, {
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	"ÿÿ"
+			}
+		}], [{
+			"x":	-979073202,
+			"y":	32764,
+			"isObstacle":	"true",
+			"skin":	"Ìÿÿ",
+			"players":	[],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}, {
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	["H\u0001"],
+			"contains":	{
+				"kind":	"H\u0001",
+				"skin":	""
+			}
+		}], [{
+			"x":	0,
+			"y":	-979073202,
+			"isObstacle":	"true",
+			"skin":	"",
+			"players":	[""],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}, {
+			"x":	-13344,
+			"y":	0,
+			"isObstacle":	"true",
+			"skin":	"‡¤Åü",
+			"players":	[],
+			"contains":	{
+				"kind":	"",
+				"skin":	""
+			}
+		}]]

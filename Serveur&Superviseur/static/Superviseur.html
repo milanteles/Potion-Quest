@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+
+  <head>
+      <!--<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+      <script src="jquery.js"></script>
+      <script src="Superviseur.js"></script>
+      <link rel="stylesheet" href="Superviseur.css">
+      <meta charset="utf-8">
+      <title>Projet d'integration</title>
+  </head>
+
+  <body>
+
+    <div id="partieGauche">
+      <fieldset>
+        <legend><h3>New Game</h3></legend>
+        <form>
+          <table>
+            <tr>
+              <td><input type="text" placeholder="Name" onchange="updateInputName()" id="inputName"></td>
+              <td><input type="text" placeholder="Width" onchange="updateInputWidth()" id="inputWidth"/></td>
+            </tr>
+            <tr>
+              <td><input type="text" placeholder="Height" onchange="updateInputHeight()" id="inputHeight"/></td>
+              <td><input type="text" placeholder="Max player" onchange="updateInputMaxPlayer()" onchange="appendPlayer()" id="inputMaxPlayer"></td>
+            </tr>
+            <tr>
+              <td><input type="text" placeholder="Field of view default" onchange="updateInputFov()" id="inputFov"></td>
+              <td><input type="text" placeholder="Timeout" onchange="updateInputTimeout()" id="inputTimeout"></td>
+            </tr>
+            <tr>
+              <td>Item number :</td>
+              <td><input type="text" placeholder="Coins" onchange="updateInputCoins()" id="inputCoins"></td>
+            </tr>
+            <tr>
+              <td><input type="text" placeholder="Chest" onchange="updateInputChest()" id="inputChest"></td>
+              <td><input type="text" placeholder="Potion" onchange="updateInputPotion()" id="inputPotion"></td>
+            </tr>
+            <tr>
+              <td>Victory On :</td>
+              <td><input type="text" placeholder="Values" onchange="updateInputValues()" id="inputValues"></td>
+            </tr>
+            <td colspan="2" >
+              <div id="victoryCheck" class="radio">
+                <input id="victoryCoinsCheck" type="radio" name="victoryChoose" value="Coins" onchange="chooseVictory()"><label for="victoryCoinsCheck">Coins</label>
+                <input id="victoryItemCheck" type="radio" name="victoryChoose" value="Items" onchange="chooseVictory()"><label for="victoryItemCheck">Items</label>
+                <input id="victoryTurnsCheck" type="radio" name="victoryChoose" value="Turns" onchange="chooseVictory()"><label for="victoryTurnsCheck">Turns</label>
+              </div>
+            </td>
+          </table>
+          <table id="myTable">
+            <tr>
+              <td><input type="text" placeholder="Player 1 - X" id="player1X"></td>
+              <td><input type="text" placeholder="Player 1 - Y" id="player1Y"></td>
+            </tr>
+            <tr>
+              <td colspan="2" >
+                <div id="optionB">
+                  <button onclick="appendPlayer()" type="button" id="btnAddPlayer" name="button">Add players</button>
+                  <button onclick="deletePlayer()" type="button" id="btnRandomPosition" name="button">Random position</button>
+                  <button onclick="appendGrid()" type="button" id="btnNouvPartie" name="button">New game</button>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </fieldset>
+      <fieldset>
+        <legend><h3>Game list</h3></legend>
+          <div class="radio">
+            <input id="opendCheck" type="radio" name="button"><label for="opendCheck">OPENED</label>
+            <input id="closedChek" type="radio" name="button"><label for="closedChek">CLOSED</label>
+            <input id="activeCheck" type="radio" name="button" checked="checked"><label for="activeCheck">ACTIVE</label>
+          </div>
+          <select id="listGame" size="10">
+            <!---Dynamique -->
+          </select>
+      </fieldset>
+    </div>
+    <fieldset>
+      <legend><h3>Selected Game</h3></legend>
+      <div id="partieDroite">
+        <div>
+        <fieldset>
+          <legend><h4>Game Status</h4></legend>
+          <form>
+            <label>Name : </label><input type="text" id="mapName"><br>
+            <label>Height : </label><input type="text" id="mapHeight"><br>
+            <label>Width : </label><input type="text" id="mapWidth"><br>
+            <label>Current player : </label><input type="text" id="currentPlayer"><br>
+            <label>Number of players : </label><input type="text" id="numberOfPlayer"><br>
+            <label>Turn left : </label><input type="text" id="turnLeft"><br>
+            <label>Chest left : </label><input type="text" id="chestLeft"><br>
+            <label>Coin left : </label><input type="text" id="coinLeft"><br>
+            <label>Potion left : </label><input type="text" id="potionLeft"><br>
+            <label>Victory on : </label><input type="text" id="victoryOn"><br>
+            <label>Value : </label><input type="text" id="valueVictory"><br>
+          </form>
+        </fieldset>
+        <fieldset>
+          <legend><h4>Player list</h4></legend>
+          <form>
+            <select id="listPlayer" size="10">
+              <!---Dynamique appendPlayer deletePlayer-->
+            </select>
+          </form>
+        </fieldset>
+        </div>
+        <fieldset>
+          <legend><h4>Map</h4></legend>
+          <table id="testGrille">
+            <!---Dynamique appendGrid-->
+          </table>
+        </fieldset>
+      </div>
+    </fieldset>
+
+
+  </body>
+
+</html>
