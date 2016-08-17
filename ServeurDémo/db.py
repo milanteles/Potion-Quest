@@ -6,17 +6,31 @@ class Db:
 
   def __init__(self):
     """Initiate a connection to the default postgres database."""
+    urlparse.uses_netloc.append("postgres")
+    url = urlparse.urlparse(os.environ["DATABASE_URL"])
+  
+    self.conn = psycopg2.connect(
+        database=url.path[1:],
+        user=url.username,
+        password=url.password,
+        host=url.hostname,
+        port=url.port
+    )
+    self.cur = self.conn.cursor()
+
+  #def __init__(self):
+    #"""Initiate a connection to the default postgres database."""
     #urlparse.uses_netloc.append("postgres")
     #url = urlparse.urlparse(os.environ["DATABASE_URL"])
   
-    self.conn = psycopg2.connect(
-        database="potionQuest",
-        user="adminPotion",
-        password="admin",
-        host="127.0.0.1",
-        port=5432
-    )
-    self.cur = self.conn.cursor()
+    #self.conn = psycopg2.connect(
+        #database="potionQuest",
+        #user="adminPotion",
+        #password="admin",
+        #host="127.0.0.1",
+        #port=5432
+    #)
+    #self.cur = self.conn.cursor()
   
   def describeRow(self, row, columns, subkeys = None):
     dRow = dict()
